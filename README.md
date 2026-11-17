@@ -2,7 +2,7 @@
 
 ## Task 1: Netflix Content Portfolio Analysis
 
-**Author:** [Your Name]
+**Author:** [Wisdom Chibuike Ukah]
 **Program:** Auspify Technologies - Business Analytics Internship
 **Tools Used:** Microsoft Excel (Pivot Tables, Data Visualization)
 
