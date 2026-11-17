@@ -48,5 +48,5 @@ Based on the analysis performed in Excel, the following key observations were ma
 2.  **Expansion Opportunity:** Significant gaps exist in South America and Africa. Netflix should invest in localized content (e.g., Nollywood, Brazilian productions) to capture emerging markets.
 
 ### 📁 Files
-*   [Task 2 Report (PDF)](./Task2_Global_Market_Performance.pdf)
-*   [Task 2 Excel Data](./Task2_Global_Market_Analysis.xlsx)
+*   Task 2 Report (PDF)
+*   Task 2 Excel Data
