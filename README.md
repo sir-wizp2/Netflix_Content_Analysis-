@@ -32,3 +32,21 @@ Based on the analysis performed in Excel, the following key observations were ma
 *   `README.md` - Project documentation (this file).
 *   `Netflix_Task1_Analysis.xlsx` - The Excel workbook containing the raw data, Pivot Tables, and charts.
 *   `Task1_Report.pdf` - The formal submission document containing the charts and written observations.
+
+---
+
+## Task 2: Global Market Performance Analysis
+
+**Objective:** Evaluate Netflix content availability across countries to identify major content markets and expansion opportunities.
+
+### 📊 Visualizations
+*   **Top 10 Global Content Markets:** Analyzed the volume of titles per country. The United States dominates with 47.8%, followed by India (15.6%) and the UK (9.4%).
+*   **Geographical Distribution:** Created a filled map to visualize content concentration globally.
+
+### 💡 Key Insights & Recommendations
+1.  **Market Concentration:** Over 70% of the content originates from just three countries (US, India, UK).
+2.  **Expansion Opportunity:** Significant gaps exist in South America and Africa. Netflix should invest in localized content (e.g., Nollywood, Brazilian productions) to capture emerging markets.
+
+### 📁 Files
+*   [Task 2 Report (PDF)](./Task2_Global_Market_Performance.pdf)
+*   [Task 2 Excel Data](./Task2_Global_Market_Analysis.xlsx)
