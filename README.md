@@ -17,7 +17,7 @@ The dataset used for this analysis is the **Netflix Movies and TV Shows** datase
 ### 📊 Key Metrics & Insights
 Based on the analysis performed in Excel, the following key observations were made:
 
-*   **Content Mix:** The Netflix library is heavily skewed toward Movies, which account for approximately **69.6%** of the total content portfolio, compared to **30.3%** for TV Shows.
+*   **Content Mix:** The Netflix library is heavily skewed toward Movies, which account for approximately **69.69%** of the total content portfolio, compared to **30.31%** for TV Shows.
 *   **Top Genres:** The platform's content is highly concentrated in specific categories. **Stand-up Comedy**, **Dramas**, and **Documentaries** are among the most prominent genres.
 *   **Global Strategy:** There is a significant presence of "International" content within the top categories, highlighting Netflix's strategic push toward global content diversity.
 
