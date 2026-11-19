@@ -50,3 +50,25 @@ Based on the analysis performed in Excel, the following key observations were ma
 ### 📁 Files
 *   Task 2 Report (PDF)
 *   Task 2 Excel Data
+
+## Task 3: Audience Segmentation Analysis
+
+**Objective:** Analyze content ratings to understand audience segments and evaluate Netflix's content targeting strategies across Movies and TV Shows.
+
+### 📊 Visualizations
+*   **Overall Audience Ratings:** A bar chart highlighting the dominance of mature content. TV-MA and TV-14 are the most frequent ratings on the platform.
+*   **Movies vs. TV Shows Segmentation:** A clustered column chart comparing how ratings differ between movies and TV shows.
+
+### 💡 Key Insights
+1.  **Mature Audience Dominance:** The library is heavily targeted at adults. TV-MA (3,205 titles) and TV-14 (2,157 titles) lead by a wide margin.
+2.  **Movie vs. TV Trends:** Movies heavily outnumber TV Shows in mature categories (e.g., 2,063 TV-MA movies vs. 1,143 TV-MA shows). However, TV Shows have a strong, targeted presence in the TV-14 category (730 titles), indicating a focus on teen/young-adult serialized content.
+3.  **Children's Content Gap:** Family-friendly ratings (G, TV-Y, TV-G) make up a very small fraction of the library.
+
+### 🚀 Strategic Recommendations
+*   **Expand Family Content:** Invest in G and TV-Y rated content to capture the family demographic and improve household retention.
+*   **Double Down on TV-14:** Continue producing multi-season teen dramas, as this is a highly engaged demographic.
+*   **Maintain Adult Movie Dominance:** Continue securing high-budget R-rated and TV-MA movies to retain adult subscribers.
+
+### 📁 Files
+*   [Task 3 Report (PDF)](./Task3_Audience_Segmentation.pdf)
+*   [Task 3 Excel Data](./Netflix_Analysis_Workbook.xlsx)
