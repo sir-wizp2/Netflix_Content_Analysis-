@@ -72,3 +72,27 @@ Based on the analysis performed in Excel, the following key observations were ma
 ### 📁 Files
 *   [Task 3 Report (PDF)](./Task3_Audience_Segmentation.pdf)
 *   [Task 3 Excel Data](./Netflix_Analysis_Workbook.xlsx)
+
+---
+
+## Task 4: Content Growth & Trend Analysis
+
+**Objective:** Analyze historical content release trends (2000-Present) to evaluate Netflix's growth strategy and content expansion over time.
+
+### 📊 Visualizations
+*   **Overall Content Growth:** A line chart showing the total volume of titles added per year, highlighting the exponential growth phase leading up to 2018.
+*   **Movies vs. TV Shows Trend:** A comparative line chart showing how the production of movies versus TV shows has shifted over the last two decades.
+
+### 💡 Key Insights
+1.  **Exponential Growth:** Netflix experienced massive expansion between 2015 and 2018, peaking in 2018 with 1,146 titles added in a single year. 
+2.  **Pandemic Impact:** A visible decline in 2020 and 2021 aligns with global COVID-19 production shutdowns, proving the platform's historical reliance on physical production pipelines.
+3.  **The Pivot to TV Shows:** While movies have always dominated volume, TV show additions accelerated significantly from 2015 onward. By 2020, the volume of new TV shows nearly caught up to new movies, showing a strategic shift toward serialized content.
+
+### 🚀 Strategic Recommendations
+*   **Focus on Series for Retention:** Continue heavily investing in multi-season TV shows, as they drive long-term subscriber engagement and binge-watching.
+*   **Diversify Production:** To avoid future supply chain disruptions like the pandemic, Netflix should diversify its filming locations globally (expanding further into Asia, Africa, and South America).
+*   **Maintain Movie Volume:** Ensure a balanced portfolio by reviving movie production volume to pre-pandemic levels, as blockbuster movies are essential for acquiring *new* subscribers.
+
+### 📁 Files
+*   [Task 4 Report (PDF)]
+*   [Task 4 Excel Data]
